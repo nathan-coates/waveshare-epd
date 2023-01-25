@@ -1,13 +1,13 @@
 package main
 
 import (
-	"github.com/mipsmonsta/epd"
-	"github.com/mipsmonsta/epd/imageutil"
+	"github.com/mcules/waveshare-epd"
+	"github.com/mcules/waveshare-epd/imageutil"
 
 	"fmt"
 	"os"
 
-	"github.com/mipsmonsta/epd/epd_config"
+	"github.com/mcules/waveshare-epd/epd_config"
 )
 
 func main() {

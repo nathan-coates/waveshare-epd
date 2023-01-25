@@ -7,8 +7,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/mipsmonsta/epd/epd_config"
-	"github.com/mipsmonsta/epd/imageutil"
+	"github.com/mcules/waveshare-epd/epd_config"
+	"github.com/mcules/waveshare-epd/imageutil"
 	"periph.io/x/conn/v3/gpio"
 )
 

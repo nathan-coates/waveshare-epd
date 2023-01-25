@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mipsmonsta/epd"
-	"github.com/mipsmonsta/epd/epd_config"
-	"github.com/mipsmonsta/epd/imageutil"
+	"github.com/mcules/waveshare-epd"
+	"github.com/mcules/waveshare-epd/epd_config"
+	"github.com/mcules/waveshare-epd/imageutil"
 )
 
 func main() {

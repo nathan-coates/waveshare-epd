@@ -1,4 +1,4 @@
-module github.com/mipsmonsta/epd
+module github.com/mcules/waveshare-epd
 
 go 1.17
 

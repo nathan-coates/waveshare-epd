@@ -1,6 +1,6 @@
-module github.com/mcules/waveshare-epd
+module github.com/nathan-coates/waveshare-epd
 
-go 1.17
+go 1.24
 
 require (
 	github.com/disintegration/imaging v1.6.2

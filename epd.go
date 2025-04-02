@@ -13,8 +13,8 @@ import (
 )
 
 const (
-	EPD_WIDTH  int = 176
-	EPD_HEIGHT int = 264
+	EPD_WIDTH  int = 122
+	EPD_HEIGHT int = 250
 )
 
 var (
